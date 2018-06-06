@@ -1,2 +1,3 @@
-# python
-A collection of Python scripts
+# Lismore Python Blockchain
+
+A blockchain project using Python
